@@ -1,0 +1,1025 @@
+<div class="tab" style="width:100%;margin-left:0px;margin-right:0px;" id="table_sy">
+        
+        
+                 <table border="0" cellpadding="0" cellspacing="1">
+                        <tbody><tr class="trr1">
+                            <td style=" width:5%"><span class="trunk" style="float: none; position: static;">开课院系</span></td>
+                            <td style="width:5%"><div align="center" onclick="var vpn_return;eval(vpn_rewrite_js((function () { doSort('id.kch'); }).toString().slice(14, -2), 2));return vpn_return;"><span class="trunk" style="float: none; position: static;">课程号</span></div></td>
+                            <td style="width:3%"><div align="center" onclick="var vpn_return;eval(vpn_rewrite_js((function () { doSort('id.kxh'); }).toString().slice(14, -2), 2));return vpn_return;"><span class="trunk" title="课序号" style="float: none; position: static;">课…</span></div></td>
+                            <td style="width:12%"><div align="center" onclick="var vpn_return;eval(vpn_rewrite_js((function () { doSort('kcm'); }).toString().slice(14, -2), 2));return vpn_return;"><span class="trunk" style="float: none; position: static;">课程名</span></div></td>
+                            <td style="width:3%"><div align="center" onclick="var vpn_return;eval(vpn_rewrite_js((function () { doSort('xf'); }).toString().slice(14, -2), 2));return vpn_return;"><span class="trunk" id="xf_sy" style="float: none; position: static;">学分</span></div></td>
+                            <td style="width:5%"><div align="center"><span class="trunk" style="float: none; position: static;">主讲教师</span></div></td>
+                            <td style="width:5%"><div align="center" onclick="var vpn_return;eval(vpn_rewrite_js((function () { doSort('bkskrl'); }).toString().slice(14, -2), 2));return vpn_return;">
+    <span class="bkskrl">本科生课容量</span></div></td>
+                            <td style="width:5%"><div align="center" onclick="var vpn_return;eval(vpn_rewrite_js((function () { doSort('bkskyl'); }).toString().slice(14, -2), 2));return vpn_return;">
+    <span class="bkskyl">本科生课余量</span></div></td>
+                            <td style="width:5%"><div align="center" onclick="var vpn_return;eval(vpn_rewrite_js((function () { doSort('yjskrl'); }).toString().slice(14, -2), 2));return vpn_return;"><span class="yjskrl">研究生课容量</span></div></td>
+                            <td style="width:5%"><div align="center" onclick="var vpn_return;eval(vpn_rewrite_js((function () { doSort('yjskyl'); }).toString().slice(14, -2), 2));return vpn_return;"><span class="yjskyl">研究生课余量</span></div></td>
+                            <td style="width:10%"><div align="center" style=""><span class="trunk" style="float: none; position: static;">上课时间</span></div></td>
+    <td style="width:4%"><div align="center"><span class="trunk" title="选课文字说明" style="float: none; position: static;">选课…</span></div></td>
+    <td style="width:5%"><div align="center"><span class="trunk" style="float: none; position: static;">课程特色</span></div></td>
+    <td style="width:4%"><div align="center" onclick="var vpn_return;eval(vpn_rewrite_js((function () { doSort('ssnj'); }).toString().slice(14, -2), 2));return vpn_return;"><span class="trunk" style="float: none; position: static;">年级</span></div></td>
+    <td style="width:5%"><div align="center" onclick="var vpn_return;eval(vpn_rewrite_js((function () { doSort('sfejxk'); }).toString().slice(14, -2), 2));return vpn_return;"><span class="trunk" title="是否二级选课" style="float: none; position: static;">是否二…</span></div></td>
+    <td style="width:4%"><div align="center"><span class="trunk syxx" title="实验信息" style="float: none; position: static;">实验…</span></div></td>
+
+                            <td style="width:5%"><div align="center" onclick="var vpn_return;eval(vpn_rewrite_js((function () { doSort('cxsfjrl'); }).toString().slice(14, -2), 2));return vpn_return;"><span class="trunk" title="重修是否占容量" style="float: none; position: static;">重修是…</span></div></td>
+                            <td style="width:5%"><div align="center" onclick="var vpn_return;eval(vpn_rewrite_js((function () { doSort('sfxksxz'); }).toString().slice(14, -2), 2));return vpn_return;"><span class="trunk" title="是否选课时限制" style="float: none; position: static;">是否选…</span></div></td>
+    <td style="width:5%"><div align="center"><span class="trunk" title="通识选修课组" style="float: none; position: static;">通识选…</span></div></td>
+
+    </tr>
+                        
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>40241062</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=2022990124;40241062&amp;kcfldm=001" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">搜索与推荐技术基础</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>2</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=2022990124" target="_blank"><span class="trunk" style="float: none; position: static;">艾清遥</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>75</span></div></td>
+                            <td><div align="center"><span>75</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">1-3(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title="优先:计算机系学生选课; 计算机专业专业限选课(计算机应用技术课组)"><span class="trunk" title="优先:计算机系学生选课; 计算机专业专业限选课(计算机应用技术课组)" style="float: none; position: static;">优先:…</span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        外文教材，中文为主进行授课(双语课)
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;">2022</span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span></span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>60240063</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=2004990021;60240063&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">微型计算机系统接口技术</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>3</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=2004990021" target="_blank"><span class="trunk" style="float: none; position: static;">周悦芝</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>30</span></div></td>
+                            <td><div align="center"><span>30</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">2-4(全周),2-3(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title=""><span class="trunk" style="float: none; position: static;"></span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span></span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>70240033</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=2011990104;70240033&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">人工智能原理</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>3</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=2011990104" target="_blank"><span class="trunk" style="float: none; position: static;">刘洋</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>70</span></div></td>
+                            <td><div align="center"><span>70</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">2-6(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title=""><span class="trunk" style="float: none; position: static;"></span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span></span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>70240063</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=2006990132;70240063&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">分布式数据库系统</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>3</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=2006990132" target="_blank"><span class="trunk" style="float: none; position: static;">冯铃</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>35</span></div></td>
+                            <td><div align="center"><span>35</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">2-4(全周),2-3(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title=""><span class="trunk" style="float: none; position: static;"></span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span></span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>70240073</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=1994990304;70240073&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">智能控制</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>3</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=1994990304" target="_blank"><span class="trunk" style="float: none; position: static;">邓志东</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>40</span></div></td>
+                            <td><div align="center"><span>40</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">2-4(全周),2-3(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title=""><span class="trunk" style="float: none; position: static;"></span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span></span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>70240083</span></div></td>
+                            <td><div align="center"><span>200</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=2011860027;70240083&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">计算机视觉</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>3</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=2011860027" target="_blank"><span class="trunk" style="float: none; position: static;">袁春</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>30</span></div></td>
+                            <td><div align="center"><span>30</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">1-4(全周),1-3(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title="限:深圳学生选课"><span class="trunk" title="限:深圳学生选课" style="float: none; position: static;">限:深…</span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        外文授课比例≥50%(双语课)
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span>是</span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>70240093</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=2007990061;70240093&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">数据安全</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>3</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=2007990061" target="_blank"><span class="trunk" style="float: none; position: static;">于红波</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>50</span></div></td>
+                            <td><div align="center"><span>50</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">4-2(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title=""><span class="trunk" style="float: none; position: static;"></span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span></span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>70240103</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=2001990257;70240103&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">知识工程</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>3</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=2001990257" target="_blank"><span class="trunk" style="float: none; position: static;">李涓子</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>60</span></div></td>
+                            <td><div align="center"><span>60</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">3-2(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title=""><span class="trunk" style="float: none; position: static;"></span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span></span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>70240103</span></div></td>
+                            <td><div align="center"><span>200</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=2011860064;70240103&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">知识工程</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>3</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=2011860064" target="_blank"><span class="trunk" style="float: none; position: static;">郑海涛</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>20</span></div></td>
+                            <td><div align="center"><span>20</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">3-1(1-12周),3-2(1-12周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title="限:深圳学生选课"><span class="trunk" title="限:深圳学生选课" style="float: none; position: static;">限:深…</span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        外文授课比例≥50%(双语课)
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span>是</span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>70240133</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=2004990140;70240133&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">多媒体计算机技术</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>3</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=2004990140" target="_blank"><span class="trunk" style="float: none; position: static;">孙立峰</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>30</span></div></td>
+                            <td><div align="center"><span>30</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">3-4(全周),3-3(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title=""><span class="trunk" style="float: none; position: static;"></span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span></span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>70240183</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=1997990188;70240183&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">计算几何</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>3</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=1997990188" target="_blank"><span class="trunk" style="float: none; position: static;">邓俊辉</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>30</span></div></td>
+                            <td><div align="center"><span>30</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">3-2(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title=""><span class="trunk" style="float: none; position: static;"></span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span></span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>70240193</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=2004990116;70240193&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">算法与算法复杂性理论</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>3</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=2004990116" target="_blank"><span class="trunk" style="float: none; position: static;">武永卫</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>120</span></div></td>
+                            <td><div align="center"><span>120</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">2-2(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title=""><span class="trunk" style="float: none; position: static;"></span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span></span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>70240413</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=2011990151;70240413&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">统计学习理论与应用</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>3</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=2011990151" target="_blank"><span class="trunk" style="float: none; position: static;">朱军</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>110</span></div></td>
+                            <td><div align="center"><span>110</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">3-2(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title=""><span class="trunk" style="float: none; position: static;"></span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span></span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>80240113</span></div></td>
+                            <td><div align="center"><span>200</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=2011860064;80240113&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">面向对象技术与应用</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>3</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=2011860064" target="_blank"><span class="trunk" style="float: none; position: static;">郑海涛</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>100</span></div></td>
+                            <td><div align="center"><span>100</span></div></td>
+                            <td><div align="center"><span class="trunk" title="7-1(3-4周),5-4(3-4周),5-3(3-4周),5-2(3-4周),5-1(3-4周),6-4(3-4周),6-3(3-4周),6-2(3-4周),6-1(3-4周),7-4(3-4周),7-3(3-4周),7-2(3-4周)" style="float: none; position: static;">7-1(3-4周),5-4(3-4周),…</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title="限:工程管理专业学生选课; MEM课程,深圳上课"><span class="trunk" title="限:工程管理专业学生选课; MEM课程,深圳上课" style="float: none; position: static;">限:工…</span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span>是</span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>80240133</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=1999990096;80240133&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">现代优化算法――设计与实践</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>3</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=1999990096" target="_blank"><span class="trunk" style="float: none; position: static;">董社勤</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>50</span></div></td>
+                            <td><div align="center"><span>50</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">1-6(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title=""><span class="trunk" style="float: none; position: static;"></span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span></span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>80240153</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=2019990018;80240153&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" title="计算科学与工程中的并行编程技术" style="float: none; position: static;">计算科学与工程中的并行编…</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>3</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=2019990018" target="_blank"><span class="trunk" style="float: none; position: static;">甘霖</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>30</span></div></td>
+                            <td><div align="center"><span>30</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">1-2(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title=""><span class="trunk" style="float: none; position: static;"></span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span></span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>80240262</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=2003990134;80240262&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">信息检索的前沿研究</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>2</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=2003990134" target="_blank"><span class="trunk" style="float: none; position: static;">张敏</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>40</span></div></td>
+                            <td><div align="center"><span>40</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">1-3(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title=""><span class="trunk" style="float: none; position: static;"></span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span></span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>80240303</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=2017990123;80240303&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">网络存储技术</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>3</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=2017990123" target="_blank"><span class="trunk" style="float: none; position: static;">陆游游</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>30</span></div></td>
+                            <td><div align="center"><span>30</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">3-6(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title=""><span class="trunk" style="float: none; position: static;"></span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span></span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>80240352</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=2022990173;80240352&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">计算机网络安全技术</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>2</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=2022990173" target="_blank"><span class="trunk" style="float: none; position: static;">刘保君</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>20</span></div></td>
+                            <td><div align="center"><span>20</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">1-6(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title=""><span class="trunk" style="float: none; position: static;"></span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span></span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+                        <tr class="trr2">
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">计算机系</span></div></td>
+                            <td><div align="center"><span>80240362</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td style="text-align:left">
+                              
+                                        <!--链接加入了课程分类代码用于区分本研-->
+                                            <a href="js.vjsKcbBs.do?m=showToXs&amp;p_id=2000990232;80240362&amp;kcfldm=002" class="mainHref" target="_blank"><span class="trunk" style="float: none; position: static;">计算机网络管理</span></a> 
+                                        
+                                    
+                                
+                            </td>
+                            <td><div align="center"><span>2</span></div></td>
+                            <td><div align="center">
+                                    
+                                        <a class="mainHref" href="xkBks.vxkBksJxjhBs.do?m=showJsDetail&amp;p_jsh=2000990232" target="_blank"><span class="trunk" style="float: none; position: static;">王继龙</span></a>
+                                    
+                                    
+                                </div></td>   
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>0</span></div></td>
+                            <td><div align="center"><span>40</span></div></td>
+                            <td><div align="center"><span>40</span></div></td>
+                            <td><div align="center"><span class="trunk" style="float: none; position: static;">2-3(全周)</span></div></td>
+    <td class="js_site-item g-ib site-item site-item-normal" title=""><span class="trunk" style="float: none; position: static;"></span></td>
+
+    
+                <td>
+                
+            
+            
+            
+                
+                        
+                
+            
+                
+                </td>
+                            
+    <td><div align="center"><span class="trunk" style="float: none; position: static;"></span></div></td>
+        <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"></div></td>
+
+                            <td><div align="center"><span>否</span></div></td>
+        <td><div align="center"><span></span></div></td>
+        <td><span class="trunk" style="float: none; position: static;"></span></td>
+        </tr>
+       
+       
+            </tbody></table>
+            
+                    <p class="yeM yahei">
+                    
+                    <a href="javascript:this.top.vpn_inject_scripts_window(this);vpn_eval((function () { turn(1); }).toString().slice(14, -2))" id="firstpage">首页</a><a href="javascript:this.top.vpn_inject_scripts_window(this);vpn_eval((function () { turn(4); }).toString().slice(14, -2))" id="uppage">上一页</a><a href="javascript:this.top.vpn_inject_scripts_window(this);vpn_eval((function () { turn(6); }).toString().slice(14, -2))" id="nextpage">下一页</a><a href="javascript:this.top.vpn_inject_scripts_window(this);vpn_eval((function () { turn(6); }).toString().slice(14, -2))" id="endpage">末页</a>  
+                     &nbsp;
+                      第 5 页 / 共 6 页（共 116 条记录）
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                     <input type="text" name="goPageNumber" class="inputbox" value="5" size="2">&nbsp;
+                        <input type="button" id="go" class="sousuobt" onclick="var vpn_return;eval(vpn_rewrite_js((function () { document.frm.go.disabled=true;turn(document.frm.goPageNumber.value); }).toString().slice(14, -2), 2));return vpn_return;" value="GO" style="margin-right: 60px;">&nbsp;&nbsp;
+                    
+                      </p>  
+                      
+                      
+                      </div>
